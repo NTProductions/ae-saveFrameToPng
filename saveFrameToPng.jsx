@@ -1,0 +1,1 @@
+﻿app.project.activeItem.saveFrameToPng(time, fileObject);
